@@ -1,0 +1,10 @@
+C:\Users\Andrew Fryzel\Source\Repos\spreadsheet\Spreadsheet\SpreadsheetPanel\bin\Debug\SpreadsheetPanel.XML
+C:\Users\Andrew Fryzel\Source\Repos\spreadsheet\Spreadsheet\SpreadsheetPanel\bin\Debug\SpreadsheetPanel.dll
+C:\Users\Andrew Fryzel\Source\Repos\spreadsheet\Spreadsheet\SpreadsheetPanel\bin\Debug\SpreadsheetPanel.pdb
+C:\Users\Andrew Fryzel\Source\Repos\spreadsheet\Spreadsheet\SpreadsheetPanel\obj\Debug\SpreadsheetPanel.csprojAssemblyReference.cache
+C:\Users\Andrew Fryzel\Source\Repos\spreadsheet\Spreadsheet\SpreadsheetPanel\obj\Debug\SS.Properties.Resources.resources
+C:\Users\Andrew Fryzel\Source\Repos\spreadsheet\Spreadsheet\SpreadsheetPanel\obj\Debug\SSGui.SpreadsheetPanel.resources
+C:\Users\Andrew Fryzel\Source\Repos\spreadsheet\Spreadsheet\SpreadsheetPanel\obj\Debug\SpreadsheetPanel.csproj.GenerateResource.cache
+C:\Users\Andrew Fryzel\Source\Repos\spreadsheet\Spreadsheet\SpreadsheetPanel\obj\Debug\SpreadsheetPanel.csproj.CoreCompileInputs.cache
+C:\Users\Andrew Fryzel\Source\Repos\spreadsheet\Spreadsheet\SpreadsheetPanel\obj\Debug\SpreadsheetPanel.dll
+C:\Users\Andrew Fryzel\Source\Repos\spreadsheet\Spreadsheet\SpreadsheetPanel\obj\Debug\SpreadsheetPanel.pdb
