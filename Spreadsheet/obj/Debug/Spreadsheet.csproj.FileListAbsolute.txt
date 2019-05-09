@@ -1,0 +1,13 @@
+C:\Users\Andrew Fryzel\Source\Repos\spreadsheet\Spreadsheet\Spreadsheet\obj\Debug\Spreadsheet.csprojAssemblyReference.cache
+C:\Users\Andrew Fryzel\Source\Repos\spreadsheet\Spreadsheet\Spreadsheet\obj\Debug\Spreadsheet.csproj.CoreCompileInputs.cache
+C:\Users\Andrew Fryzel\Source\Repos\spreadsheet\Spreadsheet\Spreadsheet\bin\Debug\Spreadsheet.XML
+C:\Users\Andrew Fryzel\Source\Repos\spreadsheet\Spreadsheet\Spreadsheet\bin\Debug\Spreadsheet.dll
+C:\Users\Andrew Fryzel\Source\Repos\spreadsheet\Spreadsheet\Spreadsheet\bin\Debug\Spreadsheet.pdb
+C:\Users\Andrew Fryzel\Source\Repos\spreadsheet\Spreadsheet\Spreadsheet\bin\Debug\DependencyGraph.dll
+C:\Users\Andrew Fryzel\Source\Repos\spreadsheet\Spreadsheet\Spreadsheet\bin\Debug\Formula.dll
+C:\Users\Andrew Fryzel\Source\Repos\spreadsheet\Spreadsheet\Spreadsheet\bin\Debug\DependencyGraph.pdb
+C:\Users\Andrew Fryzel\Source\Repos\spreadsheet\Spreadsheet\Spreadsheet\bin\Debug\Formula.pdb
+C:\Users\Andrew Fryzel\Source\Repos\spreadsheet\Spreadsheet\Spreadsheet\obj\Debug\Spreadsheet.csproj.CopyComplete
+C:\Users\Andrew Fryzel\Source\Repos\spreadsheet\Spreadsheet\Spreadsheet\obj\Debug\Spreadsheet.dll
+C:\Users\Andrew Fryzel\Source\Repos\spreadsheet\Spreadsheet\Spreadsheet\obj\Debug\Spreadsheet.pdb
+C:\Users\Andrew Fryzel\Source\Repos\spreadsheet\Spreadsheet\Spreadsheet\bin\Debug\Spreadsheet.xsd

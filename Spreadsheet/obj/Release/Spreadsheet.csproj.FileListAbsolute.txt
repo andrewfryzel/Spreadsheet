@@ -1,0 +1,2 @@
+C:\Users\Andrew Fryzel\Source\Repos\spreadsheet\Spreadsheet\Spreadsheet\obj\Release\Spreadsheet.csprojAssemblyReference.cache
+C:\Users\Andrew Fryzel\Source\Repos\spreadsheet\Spreadsheet\Spreadsheet\obj\Release\Spreadsheet.csproj.CoreCompileInputs.cache

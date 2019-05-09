@@ -1,0 +1,5 @@
+C:\Users\Andrew Fryzel\Source\Repos\spreadsheet\Spreadsheet\SpreadsheetGUI\obj\Release\SpreadsheetGUI.csprojAssemblyReference.cache
+C:\Users\Andrew Fryzel\Source\Repos\spreadsheet\Spreadsheet\SpreadsheetGUI\obj\Release\SpreadsheetGUI.Form1.resources
+C:\Users\Andrew Fryzel\Source\Repos\spreadsheet\Spreadsheet\SpreadsheetGUI\obj\Release\SpreadsheetGUI.Properties.Resources.resources
+C:\Users\Andrew Fryzel\Source\Repos\spreadsheet\Spreadsheet\SpreadsheetGUI\obj\Release\SpreadsheetGUI.csproj.GenerateResource.cache
+C:\Users\Andrew Fryzel\Source\Repos\spreadsheet\Spreadsheet\SpreadsheetGUI\obj\Release\SpreadsheetGUI.csproj.CoreCompileInputs.cache

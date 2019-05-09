@@ -1,0 +1,6 @@
+C:\Users\Andrew Fryzel\Source\Repos\spreadsheet\Spreadsheet\Formula\obj\Debug\Formula.csproj.CoreCompileInputs.cache
+C:\Users\Andrew Fryzel\Source\Repos\spreadsheet\Spreadsheet\Formula\bin\Debug\Formula.dll
+C:\Users\Andrew Fryzel\Source\Repos\spreadsheet\Spreadsheet\Formula\bin\Debug\Formula.pdb
+C:\Users\Andrew Fryzel\Source\Repos\spreadsheet\Spreadsheet\Formula\obj\Debug\Formula.dll
+C:\Users\Andrew Fryzel\Source\Repos\spreadsheet\Spreadsheet\Formula\obj\Debug\Formula.pdb
+C:\Users\Andrew Fryzel\Source\Repos\spreadsheet\Spreadsheet\Formula\obj\Debug\Formula.csprojAssemblyReference.cache
