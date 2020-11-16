@@ -1,5 +1,5 @@
 # Spreadsheet
-###A C# implementation of Microsoft Excel spreadsheets
+### A C# implementation of Microsoft Excel spreadsheets
 
 Each cell can contain a String, a double or a Formula.
 
